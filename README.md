@@ -9,3 +9,5 @@ Install npm
 Run `npm install -g bower grunt` to install bower and grunt
 
 Run `grunt serve`
+
+Exact same thing can be run here: http://haveitjoewei.github.io/
